@@ -1,3 +1,4 @@
+
 //creates an array list
 ArrayList<Particle> allMyParticles = new ArrayList<Particle>();
 
